@@ -1,2 +1,1 @@
-# repositoriojm
-este es un repositorio de prueba del modulo 2 del prepcourse henrry
+este repositorio es un ejemplo para aprender a clonar un repositorio local con uno en la nube
